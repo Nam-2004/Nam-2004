@@ -1,4 +1,7 @@
-- ☺️ Hi, I’m Nam
-- 🖥️ I’m interested in IT
-- 🏫 I’m currently learning University
-- 💞️ I got my love :3
+#include <iostream>
+using namespace std;
+
+int main() {
+   cout << "Phan Minh Nam" << endl;
+   return 0;
+}
