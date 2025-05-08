@@ -1,9 +1,5 @@
 # 👋 Xin Chào, Tôi là Phan Minh Nam!
 
-<div align="center">
-  <img src="https://wallpapers.com/images/hd/minimalist-coding-title-background-4b7fpcvz3j0xdpkj.jpg" alt="Profile Banner" width="800px">
-</div>
-
 ## 👨‍💻 Về Tôi
 
 Tôi là một sinh viên đam mê lập trình và phát triển phần mềm. Tôi luôn tìm kiếm cơ hội để học hỏi và áp dụng những kiến thức mới vào các dự án thực tế.
